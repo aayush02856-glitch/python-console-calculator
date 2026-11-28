@@ -15,6 +15,7 @@ My first Python project! A simple console-based calculator built while learning 
 - Python basics
 - User input and output
 - Conditional statements
+- Functions calling and defination
 - Basic arithmetic operations
 
  How to Run
